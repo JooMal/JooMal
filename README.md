@@ -14,6 +14,7 @@
 - String Framework
 - JSP
 - Mybatis
+- Algorithm
 
 ## ⚡ Study experience
 - (14.03 - 21.02) 서강대학교 철학과/컴퓨터공학과 졸업
