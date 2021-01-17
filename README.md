@@ -11,7 +11,7 @@
 - (19.09 - 19.12) 서강대학교 `컴퓨팅사고력` 국제반 멘토조교
 
 ## 🌱 Currently learning
-- String Framework
+- Spring Framework
 - JSP
 - Mybatis
 - Algorithm
