@@ -6,13 +6,15 @@
 ## 🔭 Work experience
 - (14.03 - 14.10) 서강대학교 문과대 학생회 `깍지`
 - (16.01 - 18.01) 서강대학교 발전홍보팀 행정조교
+- (18.01 - 19.01) Cocky Pub Serving Staff
 - (19.02 - 19.07) 서강대학교 장애학생지원센터 행정조교
 - (19.07 - 19.12) `더하일` 공학계열 근로학생 근무
 - (19.09 - 19.12) 서강대학교 `컴퓨팅사고력` 국제반 멘토조교
+- (20.01 - ) 웨스턴 동물의료센터 영상팀 수의보조
 
 ## 🛒 Stack
 - C/C++, Python, Java
-- Web : html/css/js, JSP, Mysql 활용한 웹페이지 개발 가능
+- Web : html/css/js, JSP, Mysql 활용한 웹페이지 개발
 
 ## 🌱 Currently learning
 - Spring Framework
