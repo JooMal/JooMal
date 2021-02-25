@@ -18,6 +18,8 @@
 ## 🛒 Stack
 - C/C++, Python, Java
 - Web : html/css/js, JSP, Mysql 활용한 웹페이지 개발
+- Visual AI with Python : Keras, OpenCV, Numpy, Matplotlib, Pandas
+- Crawling with Python : BeautifulSoup, Selenium
 
 ## 🌱 Currently learning
 - Spring Framework
