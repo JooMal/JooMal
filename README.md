@@ -16,10 +16,12 @@
 - (20.01 - ) 웨스턴 동물의료센터 영상팀 수의보조
 
 ## 🛒 Stack
-- C/C++, Python, Java
+- <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+- Web : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 - Web : html/css/js, JSP, Mysql 활용한 웹페이지 개발
 - Visual AI with Python : Keras, OpenCV, Numpy, Matplotlib, Pandas
 - Crawling with Python : BeautifulSoup, Selenium
+- Coworking : <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 
 ## 🌱 Currently learning
 - Spring Framework
@@ -36,3 +38,5 @@
 - (20.12 - 21.02) 웹 개발 학원 수강
 - (21.02 - ) J2KB Operation Manager
 
+## About me
+<a href="https://www.instagram.com/linonit/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
