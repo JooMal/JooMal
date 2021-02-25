@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Yelin%20Cho&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooMal&count_bg=%23FFF49F&title_bg=%23FFD42C&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# 예린 YeLin
 > on Weekend  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yl95yl)](https://solved.ac/yl95yl)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yl95yl)](https://solved.ac/yl95yl)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJooMal&count_bg=%23FFF49F&title_bg=%23FFD42C&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🔭 Work experience
 - (14.03 - 14.10) 서강대학교 문과대 학생회 `깍지`
