@@ -2,6 +2,7 @@
 
 # 예린 YeLin
 > on Weekend
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yl95yl)](https://solved.ac/yl95yl)
 
 ## 🔭 Work experience
 - (14.03 - 14.10) 서강대학교 문과대 학생회 `깍지`
@@ -31,4 +32,3 @@
 - (20.12 - 21.02) 웹 개발 학원 수강
 - (21.02 - ) J2KB Operation Manager
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yl95yl)](https://solved.ac/yl95yl)
