@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=CD853F&height=300&section=header&text=Yelin%20Cho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=A48654&height=300&section=header&text=Yelin%20Cho&fontSize=90)
 
 > on Weekend  
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=yl95yl)](https://solved.ac/yl95yl)  
