@@ -13,7 +13,7 @@
 - (19.02 - 19.07) 서강대학교 장애학생지원센터 행정조교
 - (19.07 - 19.12) `더하일` 공학계열 근로학생 근무
 - (19.09 - 19.12) 서강대학교 `컴퓨팅사고력` 국제반 멘토조교
-- (20.01 - ) 웨스턴 동물의료센터 영상팀 수의보조
+- (20.01 - 21.04) 웨스턴 동물의료센터 영상팀 수의보조
 
 ## 🛒 Stack
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=Fortran&logoColor=white"/></a>
