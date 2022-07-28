@@ -26,11 +26,9 @@
 
 ## 🌱 Currently learning
 - Spring Framework
-- JSP
-- Mybatis
-- Algorithm
 
 ## ⚡ Study experience
+- (22.06 -)       KT 백엔드 개발자
 - (14.03 - 21.02) 서강대학교 철학과/컴퓨터공학과 졸업
 - (17.03 - 21.02) 컴퓨터공학 복수전공 시작
 - (19.07 - 19.10) 공덕이노베이션센터 딥러닝 영상지능 고급과정 수료
